@@ -29,7 +29,7 @@ public class FizzBuzz {
 
         for(int i=1; i<=100; i++){
             if (i%3 ==0 && i%5==0){
-                System.out.println(first+second);
+                System.out.println(first + " " + second);
             }
             else if (i%3 == 0){
                 System.out.println(first);

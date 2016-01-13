@@ -1,0 +1,15 @@
+xxxx     scanner for collecting their birthday
+xxxxx    try catch for errors - throw exceptions    xxxxx
+
+get time at execution. 
+   get time from the web 
+	time zones. 
+
+   get time from the machine.
+	users date/time may be incorrect. 
+    
+
+
+compare times
+
+round users birthday to 00:00:00 @ given date. 
